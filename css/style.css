@@ -1,4 +1,14 @@
+div {
+    text-align: center;
+}
+
 .responsive{
-  width: 90%;
-  height: auto;
+    width: 90%;
+    height: auto;
+  }
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-style: italic;
 }
